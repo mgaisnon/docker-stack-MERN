@@ -17,3 +17,10 @@ L'objectif de ce TP est de déployer une application web MERN complète utilisan
   
 (Information : mon backend ne fonctionne pas sur Opera GX, mais fonctionne sur Chrome)
 
+## Résultat
+Frontend : 
+![image](https://github.com/mgaisnon/docker-stack-MERN/assets/148872982/a9864950-23d0-425a-bf15-d69a3d22bdb0)
+
+Backend : 
+![image](https://github.com/mgaisnon/docker-stack-MERN/assets/148872982/61ebdb4c-f409-495c-b9f3-d40961723862)
+
